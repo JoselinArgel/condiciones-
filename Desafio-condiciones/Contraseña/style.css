@@ -1,0 +1,29 @@
+body{
+    padding: 10%;
+    padding-left: 30%;
+    background-color: gainsboro;
+}
+.caja{
+    width: 60%;
+    border:2px solid black;
+    border-radius: 5%;
+    background-color: beige;
+}
+.caja h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#aviso{
+    text-align: center;
+    text-transform: uppercase;
+    padding-right: 35%;
+}
+.digitos{
+padding-left: 37%;
+}
+button{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
